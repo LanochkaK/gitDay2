@@ -8,6 +8,12 @@ public class Sales {
 
     // 25% off
 
+// add
+
+    // loyalty program ....
+
+
+
 
 
 }
