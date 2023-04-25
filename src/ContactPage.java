@@ -5,7 +5,9 @@ public class ContactPage {
   String faceBookPage;
 
 
-
+  // added
+String instaGramPage;
+String twitterPage;
 
 
 
