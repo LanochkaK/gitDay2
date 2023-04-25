@@ -8,4 +8,9 @@ public class Cart {
     // average check
 
 
+    // new discount programm
+    // mothers day
+
+
+
 }
